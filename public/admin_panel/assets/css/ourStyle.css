@@ -1,0 +1,7 @@
+.select-width {
+    width: 40ch !important;
+    max-width: 20ch; /* default width for mobile screens */
+}
+.table-style{
+    text-align: center;
+}

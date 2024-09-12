@@ -1,0 +1,70 @@
+.header_logo{
+    margin: -30px 0;
+}
+
+.logo_name{
+    color: #18254f;
+    margin: -30px 10px;
+    font-weight: bold;
+    font-family: Georgia, serif;
+    -webkit-text-fill-color: #18254f;
+    -webkit-text-stroke: 0.7px #EDC52D;
+}
+
+.mainmenu-six__right{
+    height: 70px;
+
+}
+.mainmenu-six__btn {
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.project-six{
+    padding-top : 30px;
+}
+
+.swiper-slide .activity-img{
+    height: 450px;
+}
+
+.swiper-slide .activity-img{
+    height: 450px;
+}
+
+@media screen  and (min-width: 1200px) {
+    .about-six__image img{
+        padding-left: 10ch;
+    }
+
+}
+
+.team-section{
+    margin-top: 6ch;
+    font-family: serif;
+
+}
+
+.team_description{
+    background-color:white;
+    width: 40%;
+    height: 40%;
+    color: #18254f;
+}
+
+.trip_title{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+
+.footer_logo{
+    color: #18254f;
+    margin: -20px 0;
+    font-weight: bold;
+    font-family: Georgia, serif;
+    -webkit-text-fill-color: #EDC52D;
+    -webkit-text-stroke: 0.6px #18254f;
+}
